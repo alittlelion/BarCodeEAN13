@@ -1,1 +1,1 @@
-# BarCodeEAN13
+# Barcode EAN13 encoding generation,
